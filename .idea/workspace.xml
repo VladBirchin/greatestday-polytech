@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bb44518-6fb5-4eae-bdb1-35c160de3767" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/greatday-polytech.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/FavoriteButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/Filter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/MainContent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/ServiceCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/SignInButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/StyledGoogleButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/components/sevises.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/config/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/context/ThemeContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/hooks/useFetchServices.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/LargeTile.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/LargeTile.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/LargeTile.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/LargeTile.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/LargeTile.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SmallTile.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SmallTile.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SmallTile.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SmallTile.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SmallTile.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SplashScreen.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SplashScreen.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SplashScreen.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/SplashScreen.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square150x150Logo.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square150x150Logo.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square150x150Logo.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square150x150Logo.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-lightunplated_targetsize-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.altform-unplated_targetsize-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Square44x44Logo.targetsize-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/StoreLogo.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/StoreLogo.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/StoreLogo.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/StoreLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/StoreLogo.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Wide310x150Logo.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Wide310x150Logo.scale-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Wide310x150Logo.scale-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/Wide310x150Logo.scale-400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/icons/maskable-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/Favorites.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/Satoshi-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/_document.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/api/auth/[...nextauth].ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/api/favorites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/api/favorites.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/service/[id].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/Triangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/Triangle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/favorite_border_16dp_E8EAED.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/logos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/img/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/public/maskable-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/store/servicesApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/store/servicesSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/types/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/main/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/main/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/main/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/maps/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/maps/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/CategoryFilter/CategoryFilter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/CategoryFilter/CategoryFilter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/CategoryFilter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/CategoryFilter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/Pagination/Pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/Pagination/Pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/RecipeDetails/RecipeDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/RecipeDetails/RecipeDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/RecipeDetails/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/RecipeDetails/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/SelectedRecipes/SelectedRecipes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/SelectedRecipes/SelectedRecipes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/components/SelectedRecipes/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/components/SelectedRecipes/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/hooks/useDebounce.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/hooks/useDebounce.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/hooks/useFetchRecipes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/hooks/useFetchRecipes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/pages/AllRecipesPage/AllRecipesPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/pages/AllRecipesPage/AllRecipesPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/pages/AllRecipesPage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/pages/AllRecipesPage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/src/redux/recipesSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/src/redux/recipesSlice.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/main" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pzmALt8G4RP12ohCpZmfsgUecQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Best/Desktop/greatday-polytech",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb44518-6fb5-4eae-bdb1-35c160de3767" name="Changes" comment="" />
+      <created>1733777133715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733777133715</updated>
+      <workItem from="1733777134845" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
